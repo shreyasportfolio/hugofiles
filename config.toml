@@ -8,9 +8,9 @@ disableRSS = true
 
 [params]
   title = "Shreyas Subramanian"
-  description = '<!--[-->I currently work for <a href="http://robust-analytics.com" target="_blank"> Robust Analytics</a> as an Aviation Systems Engineer. <!--]--><br />
+  description = '<!--[-->I currently work for <a href="http://robust-analytics.com" target="_blank"> Robust Analytics</a> as the Director of Research. <!--]--><br />
                 <!--[-->Do check out my recent work at <a href="http://projectshreyas.com" target="_blank">Project-S</a>.<!--]--><br />
-                <!--[-->For a PDF copy of my <a href="https://shreyasportfolio.github.io/resume/resume.pdf" target="_blank">Resume, click here</a>.<!--]-->'
+                <!--[-->For a PDF copy of my <a href="https://shreyasportfolio.github.io/shreyassubramanian.pdf" target="_blank">R&Eacute;sum&Eacute;, click here</a>.<!--]-->'
   logo = "fa-fighter-jet"
   copyright = "Project-S"
 
@@ -39,6 +39,6 @@ disableRSS = true
 languageName = "English"
 weight = 1
 title = "Shreyas Subramanian"
-  description = '<!--[-->I currently work for <a href="http://robust-analytics.com" target="_blank"> Robust Analytics</a> as an Aviation Systems Engineer. <!--]--><br />
+  description = '<!--[-->I currently work for <a href="http://robust-analytics.com" target="_blank"> Robust Analytics</a> as the Director of Research. <!--]--><br />
                 <!--[-->Do check out my recent work at <a href="http://projectshreyas.com" target="_blank">Project-S</a>.<!--]--><br />
-                <!--[-->For a PDF copy of my <a href="https://shreyasportfolio.github.io/resume/resume.pdf" target="_blank">Resume, click here</a>.<!--]-->'
+                <!--[-->For a PDF copy of my <a href="https://shreyasportfolio.github.io/shreyassubramanian.pdf" target="_blank">R&Eacute;sum&Eacute;, click here</a>.<!--]-->'

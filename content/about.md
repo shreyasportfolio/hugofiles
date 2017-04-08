@@ -11,5 +11,5 @@ Welcome to my portfolio website. I currently work at [Robust Analytics, Inc.](ht
 
 <ul class="actions">
 	<li><a href="http://projectshreyas.com" target="_blank" class="button special">Project-S</a></li>
-	<li><a href="/resume/resume.pdf" target="_blank" class="button">Resume.pdf</a></li>
+	<li><a href="shreyassubramanian.pdf" target="_blank" class="button">Resume.pdf</a></li>
 </ul>
