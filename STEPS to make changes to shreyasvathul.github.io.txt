@@ -1,0 +1,15 @@
+1. Download hugo files from github into current folder
+git clone https://github.com/shreyasportfolio/hugofiles.git .
+
+2. Check if theme files are intact, else re download
+git clone https://github.com/sethmacleod/dimension.git themes/dimension/
+
+3. Copy relevant files to main hugo folder from dimension theme folder (except images)
+
+4. run command "hugo"
+
+5. test out put "hugo server". Trasfer files from public folder to shreyasportfolio.github.io folder
+
+6. Make changes and upload to github (separately for the project folder and the shreyasportfolio.github.io folder
+
+
