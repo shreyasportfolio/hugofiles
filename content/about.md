@@ -5,7 +5,7 @@ draft = false
 +++
 
 {{< figure class="image main" src="/images/pic03.jpg" >}}
-Welcome to my portfolio website. I currently work at [Robust Analytics, Inc.](http://robust-analytics.com) as an Aviation Systems Engineer. I am passionate about all things *aircraft*, **music** and <u>tech</u>.
+Welcome to my portfolio website. I currently work at [Robust Analytics, Inc.](http://robust-analytics.com) as the Director of Research. I am passionate about all things *aircraft*, **music** and <u>tech</u>.
 
 > Jarvis - "I seem to do quite well for a stretch, and then at the end of the sentence I say the wrong cranberry."
 
